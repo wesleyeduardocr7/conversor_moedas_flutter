@@ -10,7 +10,7 @@ const request = "https://api.hgbrasil.com/finance?key=bf760f0e";
 
 void main() async {
     runApp(new MaterialApp(
-        title: "Conversor De Moedas",
+        title: "Conversor De Moedas - Teste de Contribuição",
         home: Home(),
       theme: ThemeData(
           hintColor: Colors.amber,
